@@ -1,5 +1,5 @@
 # Lorito-isolated-speech-recognizer
-Lorito a isolated speech recognizer. It uses a feature extraction method based on wavelets.
+Lorito is a isolated speech recognizer. It uses a feature extraction method based on wavelets.
 
 Please cite
 
